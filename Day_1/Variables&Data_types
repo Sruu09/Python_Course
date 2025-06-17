@@ -1,0 +1,31 @@
+'''
+A Variable is the name given to a memory location in a program.
+
+1. Variable name can contain alphabets,digits and underscores. 
+2. Variable name can start only with alphabets and underscores. 
+3. Variable name cannot start with digits. 
+4. No space is allowed to be used inside variable name. 
+'''
+#sum of 2 numbers
+a=12
+b=24
+print("12+24 =", a+b)
+
+'''
+Data Types
+1. Integers 2. Float 3.Strings 4.Booleans 5. None   
+'''
+
+print(type(12))
+print(type(1356.33))
+print(type(12+2j))
+print(type(True))
+print(type('*'))
+print(type("sru"))
+print(type("None"))
+
+#type conversion
+a = "12.6"
+b = float(a)  # a but the type should be float
+print(type(a))
+print(b)

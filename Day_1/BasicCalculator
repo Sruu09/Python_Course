@@ -1,0 +1,10 @@
+#basic calculator
+a=65
+b=5
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+print(a**b)
