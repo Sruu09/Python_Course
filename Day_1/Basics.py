@@ -7,7 +7,7 @@ Module: A file containing code written by somebody else(usually) which can be im
 PIP : It is the package manager for python which you can use to install a module on your system
 pip install module_name
 
-A Python REPL lets you run code line by line and see results instantly (terminal)
+A Python REPL (Read Evaluate Print Loop) lets you run code line by line and see results instantly (terminal)
 '''
 
 import pyttsx3
