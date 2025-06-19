@@ -70,12 +70,12 @@ print(d)
 
 # 7. If the names of 2 friends are same; what will happen to the program in problem 6?
 
-#Ans. Will not be executed
+#Ans. Will update the value
 
 
 # 8. If languages of two friends are same; what will happen to the program in problem 6?
 
-#Ans. Will be executed
+#Ans. No changes
 
 
 # 9. Can you change the values inside a list which is contained in Set S?

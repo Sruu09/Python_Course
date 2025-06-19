@@ -11,7 +11,7 @@
 - ✅ Input/output using `input()` and `print()`
 - ✅ Conditional statements (`if`, `elif`, `else`)
 - ✅ Loops (`for`, `while`, nested loops)
-- ✅ Functions (definition, calling, recursion basics)
+- ✅ String and String functions
 - ✅ Lists (indexing, iteration, min/max/sum)
 - ✅ Git & GitHub basics (`init`, `add`, `commit`, `push`)
 
