@@ -19,7 +19,7 @@ print("Squared (lambda):", squared_lambda)
 # 2️⃣ filter(): Filters items using a function that returns True/False
 
 # Keep only even numbers
-evens = list(filter(lambda x: x % 2 == 0, numbers))
+evens = list(filter(lambda x: x % 2 == 0, numbers)) 
 print("Even numbers:", evens)  # Output: [2, 4]
 
 
